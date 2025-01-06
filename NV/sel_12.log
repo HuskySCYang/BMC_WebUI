@@ -1,0 +1,41 @@
+  12 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan4_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  13 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan4_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  14 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan2_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  15 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan2_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  16 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan1_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  17 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan1_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  18 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan5_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  19 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan5_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  1a | 10/17/2024 | 12:49:49 PM UTC | Fan Fan3_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  1b | 10/17/2024 | 12:49:49 PM UTC | Fan Fan3_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  1c | 10/17/2024 | 12:49:49 PM UTC | Fan Fan2_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  1d | 10/17/2024 | 12:49:49 PM UTC | Fan Fan2_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  1e | 10/17/2024 | 12:49:49 PM UTC | Fan Fan0_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  1f | 10/17/2024 | 12:49:49 PM UTC | Fan Fan0_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  20 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan5_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  21 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan5_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  22 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan3_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  23 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan3_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  24 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan1_Inlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  25 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan1_Inlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  26 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan0_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  27 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan0_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  28 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan4_Outlet | Lower Non-critical going low  | Asserted | Reading 0 < Threshold 903 RPM
+  29 | 10/17/2024 | 12:49:49 PM UTC | Fan Fan4_Outlet | Lower Critical going low  | Asserted | Reading 0 < Threshold 516 RPM
+  2a | 10/17/2024 | 12:50:03 PM UTC | Microcontroller Fan_HS_PG | State Asserted | Asserted
+  2b | 10/17/2024 | 12:50:04 PM UTC | System Event Platform_Reset | State Asserted | Asserted
+  2c | 10/17/2024 | 12:50:04 PM UTC | Microcontroller Fan_HS_PG | State Asserted | Deasserted
+  2d | 10/17/2024 | 12:50:05 PM UTC | System Event Platform_Reset | State Asserted | Deasserted
+  2e | 10/17/2024 | 12:50:08 PM UTC | Microcontroller Fan_HS_PG | State Asserted | Asserted
+  2f | 10/17/2024 | 12:50:37 PM UTC | Power Unit CORE_HS_Fault | Failure detected | Asserted
+  30 | 10/17/2024 | 12:50:37 PM UTC | System Event System_Fault |  | Asserted
+  31 | 10/17/2024 | 12:50:37 PM UTC | Power Unit STBY_HS_Fault | Failure detected | Asserted
+  32 | 10/17/2024 | 12:50:37 PM UTC | Power Unit FAN_HS_Fault | Failure detected | Asserted
+  33 | 10/17/2024 | 12:50:38 PM UTC | System Boot Initiated BIOSPostComplete | State Asserted | Asserted
+  34 | 10/17/2024 | 12:51:24 PM UTC | Power Unit STBY_HS_Fault | Failure detected | Deasserted
+  35 | 10/17/2024 | 12:51:24 PM UTC | Power Unit CORE_HS_Fault | Failure detected | Deasserted
+  36 | 10/17/2024 | 12:51:24 PM UTC | Power Unit FAN_HS_Fault | Failure detected | Deasserted
+  37 | 10/17/2024 | 12:51:27 PM UTC | Power Supply PSU1_PRESENT | Device Present | Asserted
+  38 | 10/17/2024 | 12:51:34 PM UTC | System Event System_Fault |  | Deasserted
+  39 | 10/17/2024 | 12:51:34 PM UTC | Module / Board Mastership |  | Asserted
+  3a | 10/17/2024 | 12:51:35 PM UTC | Power Supply PSU1_Status |  | Asserted
